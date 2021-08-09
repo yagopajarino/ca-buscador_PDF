@@ -14,7 +14,7 @@ if not os.path.exists(url_des):
 
 
 df = pd.read_excel(ruta, dtype={"Clave de referencia":str, "Acreedor":str})
-codigos = pd.read_excel(r'C:\Users\ypajarino\Projects\2021.02.03 BUSCADOR PDF\codigos enargas.xlsx',header=None, index_col=0,dtype={0:str,1:str})
+codigos = pd.read_excel(r'codigos enargas.xlsx',header=None, index_col=0,dtype={0:str,1:str})
 codigos = codigos.to_dict()[1]
 tipo_docs = ["KR", "KE", "KJ", "KH", "KC", "K2", "K3", "K5"]
 dropin = df.loc[(df["Doc.compensación"] > 1800000000) &\
