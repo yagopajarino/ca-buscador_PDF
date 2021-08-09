@@ -14,7 +14,7 @@ pip install pandas
 
 ## Descagar de archivos 📁
 
-Descargar archivos de este repositorio y extraer en una carpeta de la computadora. <a href="https://github.com/yagopajarino/buscador-pdf/archive/refs/heads/main.zip">Descargar archivos</a>
+Descargar archivos de este repositorio y extraer en una carpeta de la computadora. <a href="https://github.com/yagopajarino/ca-buscador_PDF/archive/refs/heads/main.zip">Descargar archivos</a>
 
 Crear una carpeta que se llame output y dejarla vacía, allí se guardarán los PDF que encuentre el programa
 
