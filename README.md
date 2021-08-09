@@ -6,6 +6,12 @@ Permite descargar los archivos PDF guardados en el disco de cuentas a pagar
 
 **Software necesario**: python 3.6 o superior 👉 <a href="https://www.python.org/downloads/">descargar</a>
 
+Una vez instalado python, abrir una ventana del CMD y ejecutar el siguiente comando:
+
+````
+pip install pandas
+````
+
 ## Descagar de archivos 📁
 
 Descargar archivos de este repositorio y extraer en una carpeta de la computadora. <a href="https://github.com/yagopajarino/buscador-pdf/archive/refs/heads/main.zip">Descargar archivos</a>
